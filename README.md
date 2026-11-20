@@ -1,2 +1,2 @@
 # Ecomarce
-test plan,test cases,bug,automation
+test plan,test cases,bug,
